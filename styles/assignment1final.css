@@ -233,6 +233,17 @@
     font-weight: bold;
     margin-top: 30px;
 }
+.signup-button:hover{
+    cursor: pointer;
+    background-color: #4d47ff38;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    border: 5px solid black;
+    border-radius: 10px;
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
 .stayfocused-button {
     height: 48px;
     width: 174px;
@@ -243,6 +254,17 @@
     font-weight: bold;
     margin-top: 37px;
 }
+.stayfocused-button:hover{
+    cursor: pointer;
+    background-color: #4d47ff38;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    border: 5px solid black;
+    border-radius: 10px;
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
 .launch-live-button{
     height: 48px;
     width: 229px;
@@ -252,6 +274,17 @@
     font-size: 16px;
     font-weight: bold;
 }
+.launch-live-button:hover{
+    cursor: pointer;
+    background-color: #4d47ff38;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    border: 5px solid black;
+    border-radius: 10px;
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
 .getintouch-button{
     height: 62px;
     width: 497px;
@@ -260,7 +293,20 @@
     background-color: #4E47FF;
     font-size: 16px;
     font-weight: bold;
+    transition: 0.3s;
     /* margin-bottom: 85px; */
+}
+.getintouch-button:hover{
+    cursor: pointer;
+    background-color: #04031f28;
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    border: 5px solid black;
+    border-radius: 10px;
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    
 }
 
 /* shared styles */
