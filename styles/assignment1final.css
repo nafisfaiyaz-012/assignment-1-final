@@ -32,7 +32,7 @@
 }
 .banner-description {
     text-align: center;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 .logo {
     height: 51px;
@@ -252,7 +252,7 @@
     background-color: #4E47FF;
     font-size: 16px;
     font-weight: bold;
-    margin-top: 37px;
+    /* margin-top: 25px; */
 }
 .stayfocused-button:hover{
     cursor: pointer;
