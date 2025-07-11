@@ -164,6 +164,27 @@
     
 }
 
+/* footer styles */
+.footer{
+    background-color: #FFFFFF;
+    height: 428px;
+    padding-top: 104px ;
+}
+.footer-logo{
+    font-size: 100px;
+    font-weight: 800;
+    /* margin-top: 104px; */
+    margin-bottom: 8px;
+}
+.footer-description{
+    color: #8987A1;
+    margin-bottom: 20px;
+}
+.footer a{
+    text-decoration: none;
+    margin-right: 40px;
+}
+
 /* all buttons */
 .signup-button {
     height: 48px;
