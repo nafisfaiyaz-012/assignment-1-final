@@ -218,6 +218,8 @@
     margin-bottom: 20px;
 }
 .footer a{
+    color: #000000;
+    font-weight: bold;
     text-decoration: none;
     margin-right: 40px;
 }
